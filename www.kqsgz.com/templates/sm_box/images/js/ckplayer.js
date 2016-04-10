@@ -120,7 +120,7 @@ function ckstyle() { //定义总的风格
 		*/
         mylogo: 'null',
         /*
-		视频加载前显示的logo文件，默认mylogo: 'logo.swf'/*tpa=http://www.kqsgz.com/templates/sm_box/images/js/logo.swf*/，不使用设置成null，即mylogo='null';
+		视频加载前显示的logo文件，默认mylogo: 'logo.swf'/*tpa=http://www.kqsgz.com/templates/sm_box/images/js/logo.swf，不使用设置成null，即mylogo='null';
 		*/
         pm_mylogo: '1,1,-100,-55',
         /*
@@ -133,7 +133,7 @@ function ckstyle() { //定义总的风格
 		*/
         logo: 'null',
         /*
-		默认右上角一直显示的logo，默认logo: 'cklogo.png'/*tpa=http://www.kqsgz.com/templates/sm_box/images/js/cklogo.png*/,不使用设置成null，即logo='null';
+		默认右上角一直显示的logo，默认logo: 'cklogo.png'/*tpa=http://www.kqsgz.com/templates/sm_box/images/js/cklogo.png,不使用设置成null，即logo='null';
 		*/
         pm_logo: '2,0,-100,20',
         /*
